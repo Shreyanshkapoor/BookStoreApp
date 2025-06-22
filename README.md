@@ -29,7 +29,11 @@ A full-stack web application for managing a book store. Users can browse, add, u
 - bcryptjs (for password hashing)
 
 ---
+## Screenshots
+  ![image](https://github.com/user-attachments/assets/5bd4e8c0-b082-4bbe-be62-5613cc2b7810)
 
+
+--
 ## 🧑‍💻 Author
 Shreyansh Kapoor
 
