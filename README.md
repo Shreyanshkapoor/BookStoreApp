@@ -37,12 +37,7 @@ A full-stack web application for managing a book store. Users can browse, add, u
 
 ![Screenshot 2025-06-22 102254](https://github.com/user-attachments/assets/381fd086-e1ae-4928-b9ae-f318a8e4c845)
 
-
-
-
-
-
---
+---
 ## 🧑‍💻 Author
 Shreyansh Kapoor
 
