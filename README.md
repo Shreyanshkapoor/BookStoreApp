@@ -34,6 +34,10 @@ A full-stack web application for managing a book store. Users can browse, add, u
 
 ![image](https://github.com/user-attachments/assets/4ceae6e7-e393-49f1-bd29-163fd9ce8baf)
 
+![image](https://github.com/user-attachments/assets/87d7596a-6dc7-4c8c-a3ac-07d73c442055)
+
+![image](https://github.com/user-attachments/assets/7b75ffa9-ed6a-44d6-b06b-0a2f2d787e79)
+
 
 
 
