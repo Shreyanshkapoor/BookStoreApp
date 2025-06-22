@@ -31,6 +31,6 @@ A full-stack web application for managing a book store. Users can browse, add, u
 ---
 
 ## 🧑‍💻 Author
-[Shreyansh Kapoor]
+Shreyansh Kapoor
 
 
